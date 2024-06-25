@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #f54e39;
+  --secondary-color: #3481e8;
+  --white-color: #ffffff;
+  --black-color: #000000;
+  --gray-color: #d0d0d0;
+  --light-gray-color: #f4f4f4;
+  --dark-gray-color: #4a4a4a;
+  --popup-bg-color: rgba(0, 0, 0, 0.7);
+  --description-bg-color: #ffffff;
+  --link-color: #232c95;
+}
